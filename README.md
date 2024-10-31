@@ -2,6 +2,10 @@
 
 Several markdown files for the sole purpose of testing the real-time markdown rendering support in various note-taking, knowledge management (KM), and wiki tools.
 
+The markdown file in `chatgpt-raw` is copy and pasted directly out of ChatGPT.
+
+The files in `variants` are various converted versions.
+
 ## Use Case Statement
 
 ## Author
